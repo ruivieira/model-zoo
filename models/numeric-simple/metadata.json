@@ -1,0 +1,10 @@
+{
+    "model": {
+        "name": "numeric-simple",
+        "description": "A simple numeric model."
+    },
+    "data": {
+        "inputs": "data/numeric-simple/inputs.csv",
+        "outputs": "data/numeric-simple/outputs.csv"
+    }
+}
